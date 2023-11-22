@@ -1,0 +1,53 @@
+/* App.css */
+
+/* Cyberpunk styles */
+
+body {
+    background-color: #121212;
+    color: #61dafb;
+  }
+  
+  h1 {
+    color: #ff79c6;
+  }
+  
+  .ant-btn-primary {
+    background-color: #50fa7b;
+    border-color: #50fa7b;
+  }
+  
+  .ant-btn-primary span {
+    font-size: 16px;
+  }
+  
+  .ant-btn-primary:hover {
+    box-shadow: 0 0 20px #50fa7b;
+  }
+  
+  .ant-btn-primary:active {
+    box-shadow: 0 0 10px #50fa7b;
+  }
+  
+  .fontSize-80px {
+    font-size: 80px;
+    color: #bd93f9;
+  }
+  
+  /* Leaderboard styles */
+  h2 {
+    color: #ff79c6;
+  }
+  
+  ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  li {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 8px;
+    padding: 8px;
+    background-color: #282a
+  
